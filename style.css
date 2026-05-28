@@ -1,0 +1,8 @@
+body { background: #552bca; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 46px; display: flex; }
+.block-filter-0 { color: #d8e40a; font-size: 19px; margin-bottom: 5px; }
+.block-payment-1 { color: #bb3a7; font-size: 14px; margin-bottom: 5px; }
+.block-search-2 { color: #856494; font-size: 17px; margin-bottom: 5px; }
+.block-token-3 { color: #97bbb3; font-size: 16px; margin-bottom: 5px; }
+.block-cluster-4 { color: #956574; font-size: 13px; margin-bottom: 5px; }
+.block-email-5 { color: #f041b1; font-size: 17px; margin-bottom: 5px; }
